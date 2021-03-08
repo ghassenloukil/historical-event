@@ -1,0 +1,38 @@
+{
+  "name": "historical-event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghassenloukil/historical-event.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghassenloukil/historical-event/issues"
+  },
+  "homepage": "https://github.com/ghassenloukil/historical-event#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "babel": "^6.23.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "lowdb": "^1.0.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-paginate": "^7.1.0",
+    "webpack": "^5.24.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "webpack-cli": "^4.5.0"
+  }
+}
